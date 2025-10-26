@@ -35,11 +35,6 @@
 This project demonstrates a **real-time data engineering pipeline** for healthcare, designed to analyze **patient flow across hospital departments** using Azure cloud services.  
 The pipeline ingests streaming data, processes it in **Databricks (PySpark)**, and stores it in **Azure Synapse SQL Pool** for analytics and visualization.
 
-**Part 1 – Data Engineering:** Build the real-time ingestion + transformation pipeline.  
-**Part 2 – Analytics:** Connect Synapse to Power BI and design an interactive dashboard for hospital KPIs.
-
-For a full Youtube Tutorial of this project click this [Part-1 link](https://youtu.be/01LVHch-1x0?si=x70zJDO8OlK-bYJk)/[Part-2 link](https://youtu.be/1esHP63zLtM?si=e-pK7EcpK7yEOAyP).
-
 ## Pipeline
 
 <img width="4719" height="2432" alt="Architecture" src="https://github.com/user-attachments/assets/cb1a1775-ab64-45d7-b45b-50ba97660e1d" />
