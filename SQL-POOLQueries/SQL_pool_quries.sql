@@ -1,3 +1,4 @@
+--we are creating external tables
 CREATE MASTER KEY ENCRYPTION BY PASSWORD = '<<Password>>';
 
 -- CREATING A SCOPE
