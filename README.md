@@ -168,16 +168,9 @@ The **Healthcare Patient Flow Dashboard** provides insights into:
 - **Business Insights:** Hospital admins can monitor **bed usage, patient flow, and department efficiency** in real time.  
 - **Portfolio Value:** Demonstrates both **Data Engineering** and **Analytics skills** in one project.  
 
----
 
-## 📜 License
-This project is licensed under the **MIT License**.  
-Feel free to use and adapt for learning or production.
+**Author**: *Pushpendra Chaubey* 
 
----
+**LinkedIn**: [username](https://www.linkedin.com/in/pushpendra-chaubey/) 
 
-**Author**: *Jaya Chandra Kadiveti* 
-
-**LinkedIn**: [username](https://www.linkedin.com/in/jayachandrakadiveti/) 
-
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)
+**Contact**: [datawithjay1@gmail.com](mailto:pushpendra09chaube@gmail.com)
